@@ -64,3 +64,5 @@ elif score >= len(questions) // 2:
     print("💪 Good job! Keep practicing.")
 else:
     print("🧠 Don't worry! Try again and you'll improve.")
+
+#it will continued in a while
